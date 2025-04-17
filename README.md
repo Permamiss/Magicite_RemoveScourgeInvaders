@@ -6,6 +6,9 @@ My friends and I were tired of this happening, so that's why I made this - the f
 This plugin prevents the Scourge invaders from spawning. Normally, after a randomized delay of 5 minutes to 5 minutes 50 seconds, they spawn in each district (except for towns and the final district with the boss). This plugin not only prevents them from spawning, but also eliminates the spawn message and stops the music from changing. After using this plugin for a while, you'll be like, "Scourge invaders? What are those?"
 <hr>
 
+# Easy Setup Instructions
+Use a mod manager like [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or [Thunderstore App](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) to install the plugin from [thunderstore.io](https://thunderstore.io/c/magicite/p/Permamiss/Remove_Scourge_Invaders/)
+
 # Manual Setup Instructions
 ## What you need
 * __Plugin Loader__: [BepInEx v5.4.23.2](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)

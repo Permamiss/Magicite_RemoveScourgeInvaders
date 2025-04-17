@@ -1,8 +1,16 @@
-# Setup Instructions
+So you're going through each district, _definitely_ not losing track of time from duplicating items with your friends, when suddenly the Scourge invades! You make a mad dash for the end of the district, but you were too far away and they were too quick. Dang it, there goes a good, fun run. Why do some games even punish you for taking your time?
+
+My friends and I were tired of this happening, so that's why I made this - the first BepInEx plugin for Magicite!
+
+## What does this plugin do?
+This plugin prevents the Scourge invaders from spawning. Normally, after a randomized delay of 5 minutes to 5 minutes 50 seconds, they spawn in each district (except for towns and the final district with the boss). This plugin not only prevents them from spawning, but also eliminates the spawn message and stops the music from changing. After using this plugin for a while, you'll be like, "Scourge invaders? What are those?"
+<hr>
+
+# Manual Setup Instructions
 ## What you need
-* **Mod Loader**: [BepInEx v5.4.23.2](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
+* __Plugin Loader__: [BepInEx v5.4.23.2](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
     * 32-bit (x86) version for your OS
-* **Plugin**: [RemoveScourgeInvaders.dll](https://github.com/Permamiss/Magicite-RemoveScourgeInvaders/releases)
+* __Plugin__: [RemoveScourgeInvaders.dll](https://github.com/Permamiss/Magicite-RemoveScourgeInvaders/releases)
     * The latest release version
 
 ## Installation

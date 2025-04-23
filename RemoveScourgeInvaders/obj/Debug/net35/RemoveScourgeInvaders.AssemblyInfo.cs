@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveScourgeInvaders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+ed0e3b08fb0555213086873198e15dfbcdfa5320")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+fdbc94357c2b2362b81f823ed9c657a1555ec25a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Remove Scourge Invaders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveScourgeInvaders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]

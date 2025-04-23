@@ -1,0 +1,5 @@
+.gitattributes
+/.vs
+/RemoveScourgeInvaders/bin
+/RemoveScourgeInvaders/obj
+/RemoveScourgeInvaders/Properties

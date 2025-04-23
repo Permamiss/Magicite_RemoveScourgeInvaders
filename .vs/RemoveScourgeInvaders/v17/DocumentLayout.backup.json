@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\",
+  "WorkspaceRootPath": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC54A724-3016-4029-84A4-BA94B1001C68}|RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj|c:\\users\\charl\\source\\repos\\removescourgeinvaders\\removescourgeinvaders\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC54A724-3016-4029-84A4-BA94B1001C68}|RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj|c:\\users\\charl\\source\\repos\\magicite_removescourgeinvaders\\removescourgeinvaders\\removescourgeinvaders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC54A724-3016-4029-84A4-BA94B1001C68}|RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj|solutionrelative:removescourgeinvaders\\removescourgeinvaders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54A724-3016-4029-84A4-BA94B1001C68}|RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj|c:\\users\\charl\\source\\repos\\magicite_removescourgeinvaders\\removescourgeinvaders\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC54A724-3016-4029-84A4-BA94B1001C68}|RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj|solutionrelative:removescourgeinvaders\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RemoveScourgeInvaders",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+              "RelativeDocumentMoniker": "RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+              "RelativeToolTip": "RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T01:21:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\RemoveScourgeInvaders\\Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\Plugin.cs",
               "RelativeDocumentMoniker": "RemoveScourgeInvaders\\Plugin.cs",
-              "ToolTip": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\RemoveScourgeInvaders\\Plugin.cs",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\Plugin.cs",
               "RelativeToolTip": "RemoveScourgeInvaders\\Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T02:06:06.085Z",
               "EditorCaption": ""

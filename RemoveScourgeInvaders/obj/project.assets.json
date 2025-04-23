@@ -454,13 +454,13 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
       "projectName": "RemoveScourgeInvaders",
-      "projectPath": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+      "projectPath": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
       "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\RemoveScourgeInvaders\\obj\\",
+      "outputPath": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

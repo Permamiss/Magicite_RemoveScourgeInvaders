@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hy92TzdBwV8=",
+  "dgSpecHash": "EkO2pvSyO8E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\source\\repos\\RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
+  "projectFilePath": "C:\\Users\\charl\\source\\repos\\Magicite_RemoveScourgeInvaders\\RemoveScourgeInvaders\\RemoveScourgeInvaders.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charl\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\charl\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
